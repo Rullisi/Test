@@ -1,1 +1,2 @@
 Another example text file
+Added a second line lol
